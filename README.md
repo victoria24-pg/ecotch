@@ -1,1 +1,3 @@
-# ecotch
+.venv/
+__pycache__/
+*.pyc
